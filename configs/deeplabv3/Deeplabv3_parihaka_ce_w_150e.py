@@ -20,5 +20,5 @@ model = dict(
         loss_decode=loss_balanced_aux_h), 
     )
 
-
-work_dir = '/parceirosbr/asml/gabriel.gutierrez/segmentation_unicamp/experiments/parihaka/traning/deeplabv3/ce/150'
+# change work dir
+work_dir = './'

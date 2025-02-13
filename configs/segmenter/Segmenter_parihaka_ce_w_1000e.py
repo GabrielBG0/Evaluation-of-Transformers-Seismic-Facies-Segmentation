@@ -28,4 +28,5 @@ model = dict(
     test_cfg=dict(mode='slide', crop_size=crop_size, stride=(341, 341)))
 
 
-work_dir = '/parceirosbr/asml/gabriel.gutierrez/segmentation_unicamp/experiments/parihaka/traning/segmenter/ce/1000/'
+# change work dir
+work_dir = './'

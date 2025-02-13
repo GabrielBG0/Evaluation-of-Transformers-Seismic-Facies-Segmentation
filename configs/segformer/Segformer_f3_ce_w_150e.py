@@ -18,5 +18,5 @@ model =  dict(
         in_channels=[64, 128, 320, 512], 
         loss_decode=loss_balanced_h))
 
-
-work_dir = '/parceirosbr/asml/gabriel.gutierrez/segmentation_unicamp/experiments/f3/traning/segformer/ce/150/'
+# change work dir
+work_dir = './'
