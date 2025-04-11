@@ -73,7 +73,7 @@ Quantitative and qualitative results are reported in the thesis, including model
 
 
 You can read the full document here:  
-👉 [Thesis PDF](https://gabrielbg.com.br/Evaluation-of-Transformers)
+👉 [Thesis PDF](https://github.com/GabrielBG0/Evaluation-of-Transformers-Seismic-Facies-Segmentation/blob/main/Transformer%20Models%20for%20Seismic%20Facies%20Segmentation.pdf)
 
 ## 📜 Citation
 
