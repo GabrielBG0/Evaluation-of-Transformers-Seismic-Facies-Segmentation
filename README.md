@@ -59,17 +59,17 @@ Quantitative and qualitative results are reported in the thesis, including model
 | DeepLab V3+      | 0.7748  | 0.9365                   | 0.8649                         |
 | SegFormer        | 0.7268  | 0.9182                   | 0.8198                         |
 | Segmenter        | 0.7800  | 0.9353                   | 0.8815                         |
-| **SETR (PUP)**   | **0.7849**  | 0.9338                   | **0.8828**                     |
+| **SETR (PUP)**   | 0.7849  | 0.9338                   | 0.8828                         |
 
 ### 📊 Seam AI Dataset Results (1000 Epochs)
 
 | **Model**       | **mIoU** | **Pixel Accuracy (PA)** | **Mean Class Accuracy (MCA)** |
 |------------------|--------:|-------------------------:|-------------------------------:|
-| DeepLab V3       | 0.7656  | 0.9423                   | 0.8511                         |
-| DeepLab V3+      | 0.7814  | 0.9449                   | 0.8602                         |
-| SegFormer        | 0.7531  | 0.9317                   | 0.8364                         |
-| Segmenter        | 0.7904  | 0.9431                   | 0.8720                         |
-| **SETR (PUP)**   | **0.8031**  | **0.9478**               | **0.8756**                     |
+| DeepLab V3       | 0.7128  | 0.9236                   | 0.833                         |
+| DeepLab V3+      | 0.7095  | 0.9211                   | 0.8244                        |
+| SegFormer        | 0.6406  | 0.8874                   | 0.712                         |
+| Segmenter        |0.7012   | 0.9167                   | 0.8102                        |
+| **SETR (PUP)**   | 0.7605  | 0.9377                   | 0.8407                        |
 
 
 You can read the full document here:  
